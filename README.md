@@ -20,7 +20,7 @@ Throughout the project, steps such as data loading, data preprocessing, modeling
 - Sklearn 
 - Warnings
 
-### Steps
+
 ## 1. **Data Overview**
 The dataset used is **TrashNet**, which consists of **2527 images** divided into six categories:
 - Glass: 501 images
